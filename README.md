@@ -14,8 +14,8 @@ Para resolver isso o Singleton implementa um construtor especial, pois ele funci
 
 ### Exemplo
 
-No exemplo apresentado no arquivo <a href="https://github.com/MatheusOliveiraT/PadraodeProjeto/singleton.py">singleton.py</a> a classe Singleton tem como metaclass SingletonMeta, esta que implementa a construção de objetos desse tipo. Ao executar o código é possível verificar que os dois objetos Singleton criados ao final referenciam a mesma instância.
+No exemplo apresentado no arquivo <a href="https://github.com/MatheusOliveiraT/PadraodeProjeto/blob/main/singleton.py">singleton.py</a> a classe Singleton tem como metaclass SingletonMeta, esta que implementa a construção de objetos desse tipo. Ao executar o código é possível verificar que os dois objetos Singleton criados ao final referenciam a mesma instância.
 
 ### Exemplo UML:
 
-<img width="500px" src="https://github.com/MatheusOliveiraT/PadraodeProjeto/UML/structure-pt-br.png">
+<img width="500px" src="https://github.com/MatheusOliveiraT/PadraodeProjeto/blob/main/UML/structure-pt-br.png">

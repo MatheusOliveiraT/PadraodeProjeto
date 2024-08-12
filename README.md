@@ -36,7 +36,7 @@ No exemplo apresentado no arquivo <a href="https://github.com/MatheusOliveiraT/P
 
 ### Exemplo UML:
 
-<img width="500px" src="https://github.com/MatheusOliveiraT/PadraodeProjeto/blob/main/UML/bridge.py">
+<img width="500px" src="https://github.com/MatheusOliveiraT/PadraodeProjeto/blob/main/UML/bridge.png">
 
 ## Fonte:
 

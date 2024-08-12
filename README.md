@@ -51,7 +51,7 @@ Para isso o Iterator extrai o comportamento de travessia de uma coleção para u
 ### Exemplo código:
 
 Para criar um Iterator em Python existem duas classes abstratadas da biblioteca "collections": Iterable e Iterator.
-No exemplo apresentado no arquivo <a href="https://github.com/MatheusOliveiraT/PadraodeProjeto/blob/main/iterador.py">iterator.py</a> existe a classe WordCollection que serve basicamente como uma lista de palavras (que é "iterável" por herdar Iterable), e existe a classe AlphabeticalOrderIterator que é um iterador de coleções do tipo WordCollection (herda Iterador). Ao passar por parâmetro a coleção mais a ordem de iteração a classe, a coleção chama o iterador com o método "--iter--" que percorre por toda a coleção. 
+No exemplo apresentado no arquivo <a href="https://github.com/MatheusOliveiraT/PadraodeProjeto/blob/main/iterator.py">iterator.py</a> existe a classe WordCollection que serve basicamente como uma lista de palavras (que é "iterável" por herdar Iterable), e existe a classe AlphabeticalOrderIterator que é um iterador de coleções do tipo WordCollection (herda Iterador). Ao passar por parâmetro a coleção mais a ordem de iteração a classe, a coleção chama o iterador com o método "--iter--" que percorre por toda a coleção. 
 
 ### Exemplo UML:
 
